@@ -1,0 +1,86 @@
+.wp_smf_delete_img{
+	width: 18px;
+
+}
+.wp_smf_edit_img{
+	width: 40px;
+
+}
+
+#smf_forms_table{
+	width: 97%;
+ 
+    border-spacing: 0px;
+}
+
+
+#f-promotion-list img{
+	box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	background-color: #3f3f3f;
+    border: 2px solid #fff;
+    max-width: 100%;
+}
+
+
+#wp_smf_add_new_button { position: relative; left: 50%;  }
+.card-recent-forms {
+
+	box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	height: 350px;
+	padding: 8px;
+	padding-top: 5px;
+	margin-top: 10px;
+
+}
+
+.card-recent-entries {
+
+	box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(119, 119, 119, 0.5);
+	height: 350px;
+	padding: 8px;
+	padding-top: 5px;
+	padding-right: 0px;
+	margin-top: 10px;
+	overflow: scroll;
+
+}
+
+@media (min-width: 1200px)
+bootstrap.min.c…esh1&ver=4.8:6
+.col-lg-5 {
+    width: 40% !important;
+}
+
+.col-lg-5.smuzmain-card { max-width: 40%;  }
+.formtitle_link { 
+	padding-left: 10px;
+}
+table tr.even td{
+	background: #f6f6f6;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f6f6f6));
+	background: -moz-linear-gradient(top,  #f8f8f8,  #f6f6f6);
+}
+table tr:last-child td{
+	border-bottom: 0;
+}
+
+li.even {
+	background: #f6f6f6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f6f6f6));
+    background: -moz-linear-gradient(top, #f8f8f8, #f6f6f6);
+}
+li a { cursor: pointer;  }
+
+.card-recent-entries li {
+	padding: 3px;
+}
+
+.f-promotion {
+	padding-bottom: 10px;
+}

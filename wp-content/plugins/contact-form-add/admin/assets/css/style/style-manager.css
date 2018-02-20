@@ -1,0 +1,29 @@
+.smuzform-style-settings {
+	padding: 10px;
+    padding-bottom: 20px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+#formStyleCont input[type="text"], #formStyleCont input[type="number"], #formStyleCont input[type="select"] {
+    font-size: 12px;
+    height: 30px;
+}
+
+#formStyleCont .wp-picker-container {
+	display: block;
+}
+
+.smuzform-preview {
+    background: #fff;
+    width: 650px;
+    padding-bottom: 10px !important;
+}
+
+#inline-preview-cont {
+    width: 48%;
+    position: fixed;
+    padding-bottom: 10px;
+}
+
+#formDescription {}

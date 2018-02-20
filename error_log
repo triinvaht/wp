@@ -1,0 +1,321 @@
+[06-Dec-2017 10:52:42 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 10:52:51 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 10:53:20 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 10:53:29 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 10:55:08 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 11:00:29 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 11:00:32 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 11:01:04 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 11:01:07 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 11:01:13 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[06-Dec-2017 11:06:53 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 49152 bytes) in /home/triinvaht/public_html/wordpress/wp-content/plugins/envira-gallery-lite/includes/global/Mobile_Detect.php on line 1396
+[15-Jan-2018 08:14:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY zone_order, instance_id' at line 1 for query SELECT * FROM wp_woocommerce_shipping_zone_methods LEFT JOIN wp_woocommerce_shipping_zones ON wp_woocommerce_shipping_zone_methods.zone_id = wp_woocommerce_shipping_zones.zone_id WHERE method_id IN () ORDER BY zone_order, instance_id; made by include('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WooCommerce->init, do_action('woocommerce_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Connect_Loader->after_wc_init, WC_Connect_Service_Settings_Store->migrate_legacy_services, WC_Connect_Service_Settings_Store->get_enabled_services_by_ids
+[15-Jan-2018 08:14:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY zone_order, instance_id' at line 1 for query SELECT * FROM wp_woocommerce_shipping_zone_methods LEFT JOIN wp_woocommerce_shipping_zones ON wp_woocommerce_shipping_zone_methods.zone_id = wp_woocommerce_shipping_zones.zone_id WHERE method_id IN () ORDER BY zone_order, instance_id; made by include('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WooCommerce->init, do_action('woocommerce_init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_Connect_Loader->after_wc_init, WC_Connect_Service_Settings_Store->migrate_legacy_services, WC_Connect_Service_Settings_Store->get_enabled_services_by_ids
+[06-Feb-2018 20:22:18 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[06-Feb-2018 20:31:01 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 07:52:29 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 20:01:44 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 20:10:58 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 07:52:27 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 19:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 19:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Feb-2018 07:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Feb-2018 21:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Feb-2018 21:45:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 07:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 19:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 19:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 08:15:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 19:53:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 20:41:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 07:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 16:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 19:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 20:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 07:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 19:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 19:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 07:58:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 19:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 20:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 16:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 19:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 19:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 07:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 08:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 08:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 20:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 23:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 08:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 20:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 20:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 08:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 02:42:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /home/triinvah in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 03:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#1 /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home/triinvaht...', true)
+#2 /home/triinvaht/public_html/wordpress/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home/triinvaht...')
+#3 /home/triinvaht/public_html/wordpress/wp-includes/update.php(215): find_core_auto_update()
+#4 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(65): wp_version_check()
+#5 /home/triinvaht/public_html/wordpress/wp-content/plugins/wordfence/lib/wfUpdateCheck.php(38): wfUpdateChe in /home/triinvaht/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skin.php on line 93

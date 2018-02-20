@@ -1,0 +1,22 @@
+
+**************
+| Entry Page |
+**************
+
+**************
+| Templates  |
+**************
+
+**************
+| Themes     | 
+**************
+
+**************
+| New Addons |
+**************
+
+**************
+| Redesign of Notifications |
+**************
+
+Style section redesigned. form preview now move with scroll.
